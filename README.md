@@ -1,5 +1,5 @@
 ## Go Worker Pool App
-This is a Go application using a pool of workers that performs tasks in parallel using a common buffered channel and displays the results of execution.
+This is a Go application using a pool of workers that performs tasks in parallel using a common buffered channel and displays the results of execution. The application is running on http://89.208.216.48:8080 / until 01.12.2024
 
 ## Getting Started
 Here's how to get the project up and running on your local machine for development and testing.
